@@ -4,12 +4,15 @@ import Link from "next/link";
 export const Navbar = () => {
 	const links = [
 		{ id: 1, link: "question1", title: "Question 1" },
-		{ id: 2, link: "question1", title: "Question 2" },
-		{ id: 3, link: "question1", title: "Question 3" },
-		{ id: 4, link: "question1", title: "Question 4" },
-		{ id: 5, link: "question1", title: "Question 5" },
-		{ id: 6, link: "question1", title: "Question 6" },
-		{ id: 7, link: "question1", title: "Question 7" },
+		{ id: 2, link: "question2", title: "Question 2" },
+		{ id: 3, link: "question3", title: "Question 3" },
+		{ id: 4, link: "question4", title: "Question 4" },
+		{ id: 5, link: "question5", title: "Question 5" },
+		{ id: 6, link: "question6", title: "Question 6" },
+		{ id: 7, link: "question7", title: "Question 7" },
+		{ id: 8, link: "question8", title: "Question 8" },
+		{ id: 9, link: "question9", title: "Question 9" },
+		{ id: 10, link: "question10", title: "Question 10" },
 	];
 
 	return (
